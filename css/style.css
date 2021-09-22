@@ -1,0 +1,29 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+h3{
+    font: Arial, sans-serif;
+    text-align: center;
+}
+.quem-somos{
+    background-color: ghostwhite;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.margindesenvolvedor{
+       
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-style: italic;
+}
+
+
+.parceiros{
+    background-color: rgb(252, 236, 10);    
+}
+.servicos{
+    background-color: ghostwhite;
+}
